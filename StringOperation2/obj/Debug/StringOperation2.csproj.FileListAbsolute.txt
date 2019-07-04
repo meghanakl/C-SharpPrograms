@@ -1,0 +1,6 @@
+D:\repositary\C-SharpPrograms\StringOperation2\bin\Debug\StringOperation2.exe.config
+D:\repositary\C-SharpPrograms\StringOperation2\bin\Debug\StringOperation2.exe
+D:\repositary\C-SharpPrograms\StringOperation2\bin\Debug\StringOperation2.pdb
+D:\repositary\C-SharpPrograms\StringOperation2\obj\Debug\StringOperation2.csproj.CoreCompileInputs.cache
+D:\repositary\C-SharpPrograms\StringOperation2\obj\Debug\StringOperation2.exe
+D:\repositary\C-SharpPrograms\StringOperation2\obj\Debug\StringOperation2.pdb

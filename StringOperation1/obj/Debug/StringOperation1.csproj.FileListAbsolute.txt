@@ -1,0 +1,7 @@
+D:\repositary\C-SharpPrograms\StringOperation1\bin\Debug\StringOperation1.exe.config
+D:\repositary\C-SharpPrograms\StringOperation1\bin\Debug\StringOperation1.exe
+D:\repositary\C-SharpPrograms\StringOperation1\bin\Debug\StringOperation1.pdb
+D:\repositary\C-SharpPrograms\StringOperation1\obj\Debug\StringOperation1.csprojAssemblyReference.cache
+D:\repositary\C-SharpPrograms\StringOperation1\obj\Debug\StringOperation1.csproj.CoreCompileInputs.cache
+D:\repositary\C-SharpPrograms\StringOperation1\obj\Debug\StringOperation1.exe
+D:\repositary\C-SharpPrograms\StringOperation1\obj\Debug\StringOperation1.pdb

@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\repositary\\C-SharpPrograms\\C-SharpPrograms\\C-SharpPrograms\\C-SharpPrograms.csproj": {}
+  },
+  "projects": {
+    "D:\\repositary\\C-SharpPrograms\\C-SharpPrograms\\C-SharpPrograms\\C-SharpPrograms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\repositary\\C-SharpPrograms\\C-SharpPrograms\\C-SharpPrograms\\C-SharpPrograms.csproj",
+        "projectName": "C-SharpPrograms",
+        "projectPath": "D:\\repositary\\C-SharpPrograms\\C-SharpPrograms\\C-SharpPrograms\\C-SharpPrograms.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\repositary\\C-SharpPrograms\\C-SharpPrograms\\C-SharpPrograms\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
